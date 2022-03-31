@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairProgramming.POCOs", "PairProgramming.POCOs\PairProgramming.POCOs.csproj", "{48854A90-4D70-4BBD-BAE9-547628CDBA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairProgramming.Repositories", "PairProgramming.Repositories\PairProgramming.Repositories.csproj", "{ED4193D2-853D-412B-B923-776CB9986E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairProgramming.UI", "PairProgramming.UI\PairProgramming.UI.csproj", "{2756D659-3271-42D1-BDE9-A18FA3B5890E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48854A90-4D70-4BBD-BAE9-547628CDBA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48854A90-4D70-4BBD-BAE9-547628CDBA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48854A90-4D70-4BBD-BAE9-547628CDBA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48854A90-4D70-4BBD-BAE9-547628CDBA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED4193D2-853D-412B-B923-776CB9986E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED4193D2-853D-412B-B923-776CB9986E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED4193D2-853D-412B-B923-776CB9986E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED4193D2-853D-412B-B923-776CB9986E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2756D659-3271-42D1-BDE9-A18FA3B5890E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2756D659-3271-42D1-BDE9-A18FA3B5890E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2756D659-3271-42D1-BDE9-A18FA3B5890E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2756D659-3271-42D1-BDE9-A18FA3B5890E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
